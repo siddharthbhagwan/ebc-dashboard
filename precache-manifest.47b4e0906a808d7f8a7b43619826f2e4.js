@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d910aeb17d8892a9848602d2e852f613",
+    "revision": "61e105b9751213d92e4af3753912b053",
     "url": "/ebc-dashboard/index.html"
   },
   {
-    "revision": "18c9991feb810cb71d3c",
-    "url": "/ebc-dashboard/static/css/main.b418e389.chunk.css"
+    "revision": "baa27a9f5c0276c6831d",
+    "url": "/ebc-dashboard/static/css/main.de6d5dc9.chunk.css"
   },
   {
-    "revision": "c247efde2b993ba82027",
-    "url": "/ebc-dashboard/static/js/2.7ed158b4.chunk.js"
+    "revision": "5c3be52c2bb51c830117",
+    "url": "/ebc-dashboard/static/js/2.c5699f70.chunk.js"
   },
   {
-    "revision": "18c9991feb810cb71d3c",
-    "url": "/ebc-dashboard/static/js/main.e6064a6a.chunk.js"
+    "revision": "baa27a9f5c0276c6831d",
+    "url": "/ebc-dashboard/static/js/main.18dfd6f9.chunk.js"
   },
   {
     "revision": "9833424da3c3132432b3",
