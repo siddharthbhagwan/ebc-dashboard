@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "679242eb3ef27e39914a3de0560b245b",
+    "revision": "0564853faa270ad652b5889601f5e1f1",
     "url": "/ebc-dashboard/index.html"
   },
   {
-    "revision": "193b27e4e792879f0443",
-    "url": "/ebc-dashboard/static/css/main.bc7e4cf2.chunk.css"
+    "revision": "9946dd3ea6c8413b43a6",
+    "url": "/ebc-dashboard/static/css/main.9c255150.chunk.css"
   },
   {
-    "revision": "e02ac7eb0ff5b088a817",
-    "url": "/ebc-dashboard/static/js/2.958f1141.chunk.js"
+    "revision": "d26edd80b1b384f0bfc9",
+    "url": "/ebc-dashboard/static/js/2.e4dfdd34.chunk.js"
   },
   {
-    "revision": "193b27e4e792879f0443",
-    "url": "/ebc-dashboard/static/js/main.8f5f59b1.chunk.js"
+    "revision": "e814e956e87b64060b0351e69977a48e",
+    "url": "/ebc-dashboard/static/js/2.e4dfdd34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9833424da3c3132432b3",
-    "url": "/ebc-dashboard/static/js/runtime~main.4ca6d89e.js"
+    "revision": "9946dd3ea6c8413b43a6",
+    "url": "/ebc-dashboard/static/js/main.64c4e5c5.chunk.js"
+  },
+  {
+    "revision": "77ad2995eeaf71d00c62",
+    "url": "/ebc-dashboard/static/js/runtime-main.611b304f.js"
   },
   {
     "revision": "a9339a6512ec933e9f9a5730dd9dc5f4",
@@ -26,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3605fab2f6f4675ee7cab8c83d4ba7b1",
     "url": "/ebc-dashboard/static/media/ebc.3605fab2.svg"
+  },
+  {
+    "revision": "1be8a59f3f5bd41e63bd98281922eabe",
+    "url": "/ebc-dashboard/static/media/info.1be8a59f.svg"
   },
   {
     "revision": "3f99a64d3d2249a36f8c2dcffdcc18a2",

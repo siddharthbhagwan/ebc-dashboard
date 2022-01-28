@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/ebc-dashboard/static/css/main.bc7e4cf2.chunk.css",
-    "main.js": "/ebc-dashboard/static/js/main.8f5f59b1.chunk.js",
-    "main.js.map": "/ebc-dashboard/static/js/main.8f5f59b1.chunk.js.map",
-    "runtime~main.js": "/ebc-dashboard/static/js/runtime~main.4ca6d89e.js",
-    "runtime~main.js.map": "/ebc-dashboard/static/js/runtime~main.4ca6d89e.js.map",
-    "static/js/2.958f1141.chunk.js": "/ebc-dashboard/static/js/2.958f1141.chunk.js",
-    "static/js/2.958f1141.chunk.js.map": "/ebc-dashboard/static/js/2.958f1141.chunk.js.map",
+    "main.css": "/ebc-dashboard/static/css/main.9c255150.chunk.css",
+    "main.js": "/ebc-dashboard/static/js/main.64c4e5c5.chunk.js",
+    "main.js.map": "/ebc-dashboard/static/js/main.64c4e5c5.chunk.js.map",
+    "runtime-main.js": "/ebc-dashboard/static/js/runtime-main.611b304f.js",
+    "runtime-main.js.map": "/ebc-dashboard/static/js/runtime-main.611b304f.js.map",
+    "static/js/2.e4dfdd34.chunk.js": "/ebc-dashboard/static/js/2.e4dfdd34.chunk.js",
+    "static/js/2.e4dfdd34.chunk.js.map": "/ebc-dashboard/static/js/2.e4dfdd34.chunk.js.map",
     "index.html": "/ebc-dashboard/index.html",
-    "precache-manifest.ebe3485e068304aff9443f6c6257cea5.js": "/ebc-dashboard/precache-manifest.ebe3485e068304aff9443f6c6257cea5.js",
+    "precache-manifest.58af8dd28115ea106deb27c8a61cc323.js": "/ebc-dashboard/precache-manifest.58af8dd28115ea106deb27c8a61cc323.js",
     "service-worker.js": "/ebc-dashboard/service-worker.js",
-    "static/css/main.bc7e4cf2.chunk.css.map": "/ebc-dashboard/static/css/main.bc7e4cf2.chunk.css.map",
+    "static/css/main.9c255150.chunk.css.map": "/ebc-dashboard/static/css/main.9c255150.chunk.css.map",
+    "static/js/2.e4dfdd34.chunk.js.LICENSE.txt": "/ebc-dashboard/static/js/2.e4dfdd34.chunk.js.LICENSE.txt",
     "static/media/airport.svg": "/ebc-dashboard/static/media/airport.a9339a65.svg",
     "static/media/ebc.svg": "/ebc-dashboard/static/media/ebc.3605fab2.svg",
+    "static/media/info.svg": "/ebc-dashboard/static/media/info.1be8a59f.svg",
     "static/media/map.svg": "/ebc-dashboard/static/media/map.3f99a64d.svg",
     "static/media/pass.svg": "/ebc-dashboard/static/media/pass.02888303.svg",
     "static/media/summit.svg": "/ebc-dashboard/static/media/summit.f0d974ca.svg",
     "static/media/tent.svg": "/ebc-dashboard/static/media/tent.3099eae7.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611b304f.js",
+    "static/js/2.e4dfdd34.chunk.js",
+    "static/css/main.9c255150.chunk.css",
+    "static/js/main.64c4e5c5.chunk.js"
+  ]
 }
