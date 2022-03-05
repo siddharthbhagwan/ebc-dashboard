@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "185e6889225b1ee60190a31add30dfb4",
+    "revision": "3b1758513512a9cf32b35a6a5cf6b5a6",
     "url": "/ebc-dashboard/index.html"
   },
   {
-    "revision": "2933cefd5c9a4d388211",
-    "url": "/ebc-dashboard/static/css/main.b0027de3.chunk.css"
+    "revision": "c1e1aa6680ee2f8cdfed",
+    "url": "/ebc-dashboard/static/css/main.9c255150.chunk.css"
   },
   {
-    "revision": "3a38f782c8ed3113c4af",
-    "url": "/ebc-dashboard/static/js/2.484dfb83.chunk.js"
+    "revision": "33c8646f6912703b96c5",
+    "url": "/ebc-dashboard/static/js/2.2a5e12b5.chunk.js"
   },
   {
     "revision": "e814e956e87b64060b0351e69977a48e",
-    "url": "/ebc-dashboard/static/js/2.484dfb83.chunk.js.LICENSE.txt"
+    "url": "/ebc-dashboard/static/js/2.2a5e12b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2933cefd5c9a4d388211",
-    "url": "/ebc-dashboard/static/js/main.33281cc6.chunk.js"
+    "revision": "c1e1aa6680ee2f8cdfed",
+    "url": "/ebc-dashboard/static/js/main.991eaa15.chunk.js"
   },
   {
     "revision": "77ad2995eeaf71d00c62",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1be8a59f3f5bd41e63bd98281922eabe",
     "url": "/ebc-dashboard/static/media/info.1be8a59f.svg"
+  },
+  {
+    "revision": "f2249ac1c2fe72f04649ffa85217bbe6",
+    "url": "/ebc-dashboard/static/media/legend.f2249ac1.svg"
   },
   {
     "revision": "3f99a64d3d2249a36f8c2dcffdcc18a2",
