@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/ebc-dashboard/static/css/main.9c255150.chunk.css",
-    "main.js": "/ebc-dashboard/static/js/main.991eaa15.chunk.js",
-    "main.js.map": "/ebc-dashboard/static/js/main.991eaa15.chunk.js.map",
-    "runtime-main.js": "/ebc-dashboard/static/js/runtime-main.611b304f.js",
-    "runtime-main.js.map": "/ebc-dashboard/static/js/runtime-main.611b304f.js.map",
-    "static/js/2.2a5e12b5.chunk.js": "/ebc-dashboard/static/js/2.2a5e12b5.chunk.js",
-    "static/js/2.2a5e12b5.chunk.js.map": "/ebc-dashboard/static/js/2.2a5e12b5.chunk.js.map",
-    "index.html": "/ebc-dashboard/index.html",
-    "precache-manifest.62a94ca30a57cce8d1eb2be73345092c.js": "/ebc-dashboard/precache-manifest.62a94ca30a57cce8d1eb2be73345092c.js",
-    "service-worker.js": "/ebc-dashboard/service-worker.js",
-    "static/css/main.9c255150.chunk.css.map": "/ebc-dashboard/static/css/main.9c255150.chunk.css.map",
-    "static/js/2.2a5e12b5.chunk.js.LICENSE.txt": "/ebc-dashboard/static/js/2.2a5e12b5.chunk.js.LICENSE.txt",
-    "static/media/airport.svg": "/ebc-dashboard/static/media/airport.a9339a65.svg",
-    "static/media/ebc.svg": "/ebc-dashboard/static/media/ebc.3605fab2.svg",
-    "static/media/info.svg": "/ebc-dashboard/static/media/info.1be8a59f.svg",
-    "static/media/legend.svg": "/ebc-dashboard/static/media/legend.f2249ac1.svg",
-    "static/media/map.svg": "/ebc-dashboard/static/media/map.3f99a64d.svg",
-    "static/media/pass.svg": "/ebc-dashboard/static/media/pass.02888303.svg",
-    "static/media/summit.svg": "/ebc-dashboard/static/media/summit.f0d974ca.svg",
-    "static/media/tent.svg": "/ebc-dashboard/static/media/tent.3099eae7.svg"
+    "main.css": "/ebc/static/css/main.9c255150.chunk.css",
+    "main.js": "/ebc/static/js/main.d7d249d4.chunk.js",
+    "main.js.map": "/ebc/static/js/main.d7d249d4.chunk.js.map",
+    "runtime-main.js": "/ebc/static/js/runtime-main.207348d0.js",
+    "runtime-main.js.map": "/ebc/static/js/runtime-main.207348d0.js.map",
+    "static/js/2.2a5e12b5.chunk.js": "/ebc/static/js/2.2a5e12b5.chunk.js",
+    "static/js/2.2a5e12b5.chunk.js.map": "/ebc/static/js/2.2a5e12b5.chunk.js.map",
+    "index.html": "/ebc/index.html",
+    "precache-manifest.e181c9ee11727edcefc3debf324a9997.js": "/ebc/precache-manifest.e181c9ee11727edcefc3debf324a9997.js",
+    "service-worker.js": "/ebc/service-worker.js",
+    "static/css/main.9c255150.chunk.css.map": "/ebc/static/css/main.9c255150.chunk.css.map",
+    "static/js/2.2a5e12b5.chunk.js.LICENSE.txt": "/ebc/static/js/2.2a5e12b5.chunk.js.LICENSE.txt",
+    "static/media/airport.svg": "/ebc/static/media/airport.a9339a65.svg",
+    "static/media/ebc.svg": "/ebc/static/media/ebc.3605fab2.svg",
+    "static/media/info.svg": "/ebc/static/media/info.1be8a59f.svg",
+    "static/media/legend.svg": "/ebc/static/media/legend.f2249ac1.svg",
+    "static/media/map.svg": "/ebc/static/media/map.3f99a64d.svg",
+    "static/media/pass.svg": "/ebc/static/media/pass.02888303.svg",
+    "static/media/summit.svg": "/ebc/static/media/summit.f0d974ca.svg",
+    "static/media/tent.svg": "/ebc/static/media/tent.3099eae7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.611b304f.js",
+    "static/js/runtime-main.207348d0.js",
     "static/js/2.2a5e12b5.chunk.js",
     "static/css/main.9c255150.chunk.css",
-    "static/js/main.991eaa15.chunk.js"
+    "static/js/main.d7d249d4.chunk.js"
   ]
 }
