@@ -3,6 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="airport" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#D1D1D1;}
+	.st1{fill:#454545;}
+]]>
+</style>
 <path class="st0" d="M172.497,225.684c-3.627,0-8.729-0.717-14.367-2.02l-16.568-3.827c-0.555-0.128-1.152-0.247-1.788-0.358
 	c-4.115,5.086-8.738,6.01-11.551,6.01s-7.437-0.924-11.551-6.009c-0.635,0.11-1.234,0.229-1.79,0.358l-16.566,3.826
 	c-5.638,1.303-10.74,2.02-14.367,2.02c-1.754,0-7.093,0-10.557-4.239c-1.994-2.44-2.777-5.611-2.149-8.7

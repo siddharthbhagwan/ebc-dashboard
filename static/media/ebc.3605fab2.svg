@@ -3,6 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="camp_site" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#D1D1D1;}
+	.st1{fill:#454545;}
+]]>
+</style>
 <path class="st0" d="M25.991,243.51c-10.432,0-18.919-8.486-18.919-18.918c0-9.869,7.596-17.998,17.249-18.847L90.239,90.064
 	c0.367-1.21,0.876-2.371,1.525-3.471l12.691-21.478l5.71-10.02L99.412,36.899c-2.17-3.671-2.78-7.968-1.718-12.1
 	c1.063-4.131,3.669-7.601,7.341-9.771c2.458-1.454,5.266-2.223,8.118-2.223c5.622,0,10.892,3.006,13.752,7.845l1.913,3.236

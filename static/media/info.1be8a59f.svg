@@ -3,7 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="information" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#D1D1D1;}
+	.st1{fill:#454545;}
+]]>
+</style>
 <path class="st0" d="M107.328,65.772c3.092,2.371,6.659,4.144,10.602,5.27c3.436,0.981,7.128,1.479,10.973,1.479
 	c3.693,0,7.314-0.491,10.763-1.46c3.941-1.107,7.518-2.852,10.628-5.185c3.46-2.594,6.247-5.902,8.285-9.834
 	c2.106-4.067,3.174-8.663,3.174-13.66c0-5.058-1.069-9.688-3.18-13.767c-2.068-3.987-4.909-7.318-8.454-9.906

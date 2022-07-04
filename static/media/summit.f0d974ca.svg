@@ -3,6 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="mountain" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#464646;}
+	.st1{fill:#D1D1D1;}
+]]>
+</style>
 <path class="st1" d="M130.291,232.689c-5.206,0-10.222-0.545-15.073-1.072c-4.539-0.493-8.825-0.959-12.982-0.959
 	c0,0-0.341,0.001-0.36,0.001c-4.266,0-8.065-2.708-9.455-6.746c-1.396-4.056-0.05-8.55,3.345-11.17
 	c0.868-0.67,1.741-1.325,2.615-1.966c-2.027,0.712-4.046,1.424-6.051,2.131c-11.405,4.021-23.198,8.183-35.025,11.71
