@@ -3,12 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
-<![CDATA[
-	.st0{fill:#464646;}
-	.st1{fill:#D1D1D1;}
-]]>
-</style>
 <path class="st1" d="M226.746,17.522c-2.924,0-5.859,0.72-8.729,2.141l-41.83,20.714c-5.574,2.76-10.295,8.014-13.074,13.997
 	c-2.615-6.019-7.123-11.368-12.564-14.41L116.461,20.91c-3.079-1.722-6.247-2.595-9.416-2.595c-5.683,0-10.409,2.731-13.262,7.143
 	c-2.915-4.895-8.011-8.016-14.062-8.016c-2.9,0-5.814,0.707-8.663,2.102L28.42,40.42c-9.017,4.416-15.816,15.317-15.816,25.356
